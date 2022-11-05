@@ -29,7 +29,7 @@ class Program
                 }
             }
         }
-
+        
         Print(stack);
     }
     static void Print(Stack<int> stack)
