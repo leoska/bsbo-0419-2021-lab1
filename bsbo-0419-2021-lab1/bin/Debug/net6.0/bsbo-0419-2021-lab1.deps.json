@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bsbo-0419-2021-lab1/1.0.0": {
+        "runtime": {
+          "bsbo-0419-2021-lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bsbo-0419-2021-lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
